@@ -24,7 +24,6 @@ B=np.array([-9,4,-1])
 C=np.linalg.solve(A,B)
 print(C)
 ```
-
 ## Output:
 ![OUTPUT](<LINEAR EQUATIONS-1.png>)
 ## Result: 
